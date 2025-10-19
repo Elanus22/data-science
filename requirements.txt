@@ -1,5 +1,9 @@
 1. U need to download the csv. (was to big for github) used in my project from this url: https://drive.google.com/file/d/1SliuVz9lS0_ynGpnjPcKmmdJo-H-gP6k/view?usp=sharing
+
 2. Run the "exploraton_and_data_science.ipynb" first. This will automaticly create the necessary file for the second "Charging Station_Location_Prediction.ipynb"-file. I saperated them because it seemed logical for me.
+
 3. Run it with python version Python 3.11.9
+
 4. My source of the data was the official Federal Network Agency Germany ("Bundesnetzagentur") category E-Mobility latest report: 09/24/2025 with webside link: https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html
+
 5. Motivation: I wanted to analyse a highly relevant topic — E-Mobility infrastructure — which combines future-oriented decision-making and something related to cars, an area Germany is known for. '/n' I also wanted to pick a dataset that hasn’t been widely analysed yet and gain valuable insights that could actually support future planning.
