@@ -6,4 +6,6 @@
 
 4. My source of the data was the official Federal Network Agency Germany ("Bundesnetzagentur") category E-Mobility latest report: 09/24/2025 with webside link: https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html
 
-5. Motivation: I wanted to analyse a highly relevant topic — E-Mobility infrastructure — which combines future-oriented decision-making and something related to cars, an area Germany is known for. '/n' I also wanted to pick a dataset that hasn’t been widely analysed yet and gain valuable insights that could actually support future planning.
+5. Motivation:
+As a bachelor student, I wanted to analyze a topic that is both highly relevant and future-oriented — E-Mobility infrastructure. This field combines forward-looking decision-making with the automotive industry, an area that Germany is particularly known for. I also aimed to work with a dataset that hasn’t been widely analyzed yet, in order to gain new insights that could be valuable for future planning and development.
+Being part of the younger generation, I care deeply about environmental issues. I believe that supporting the electric vehicle (EV) industry is an important step toward a cleaner and more sustainable future. Since the EV market and the expansion of charging infrastructure are closely connected through indirect network effects, I hope that by providing useful information about the EV charging market, my analysis can help strengthen and further develop the car industry in a sustainable way.
