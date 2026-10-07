@@ -1,6 +1,7 @@
 # Where will Germany's next EV charging stations be built?
 
-Personal data science project (Oct 2025, revised Oct 2026) on the public
+Data science project from a course during my semester abroad (Oct 2025,
+revised Oct 2026) on the public
 charging station register of the German Federal Network Agency
 (Bundesnetzagentur, report of 24 Sep 2025, ~95,500 operational stations).
 
